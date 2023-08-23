@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #2f3542;
+    color: #dfe4ea;
+}
+
+
+.grid{
+    display: flex;
+    width: 600px;
+    height: 600px;
+    flex-wrap: wrap;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #dfe4ea;
+}
+
+.mole{
+    background-image: url(Image/omen.webp);
+    background-size: cover;
+}
