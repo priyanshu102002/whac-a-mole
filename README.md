@@ -3,4 +3,4 @@ This is game where you have 1 minute and you need to predict where the mole will
 
 Tech Stack used: HTML,CSS and JavaScript
 
-Link : 
+Link : https://priyanshu102002.github.io/whac-a-mole/
